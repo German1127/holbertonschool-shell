@@ -1,1 +1,2 @@
-qweasd
+#!/bin/bash
+pwd
