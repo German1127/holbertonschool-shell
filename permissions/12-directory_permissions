@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir mi_dir
-chmod 751 mi_dir
+mkdir mi_dir && chmod 751 mi_dir
