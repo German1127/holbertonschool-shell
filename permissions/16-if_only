@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R --exclude = guillaume :vincent hello
+chown -h --exclude = guillaume vincent:hello
