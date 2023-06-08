@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x cambiar_propietario_hello.sh
+chown vincent:staff _hello
