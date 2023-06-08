@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -R --exclude = guillaume :vincent hello
