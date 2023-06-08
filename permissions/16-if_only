@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference = guillaume vincet hello
+chown -path = guillaume vincet hello
