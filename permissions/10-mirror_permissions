@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod $modo_olleh hello
+chmod "$mode" hello
