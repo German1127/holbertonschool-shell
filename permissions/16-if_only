@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h --exclude = vincent guillaume:hello
+chown --reference = guillaume vincet hello
