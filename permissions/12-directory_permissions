@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir u=rwx,go=rx mi_dir
+chmod u=rwx,g=rx,o= mi_dir
