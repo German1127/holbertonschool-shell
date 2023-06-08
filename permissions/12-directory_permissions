@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir rwx-rx-x
+chmod my_dir rwx-rx-x
