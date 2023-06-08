@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir rwx-rx-x my_dir
+mkdir my_dir rwx-rx-x
