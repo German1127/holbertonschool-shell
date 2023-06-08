@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -path = guillaume vincet hello
+chown find = guillaume vincet hello
