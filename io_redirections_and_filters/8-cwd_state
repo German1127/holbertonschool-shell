@@ -1,0 +1,4 @@
+xc#!/bin/bash
+echo ls_cwd_content
+ls -la
+ls_cwd_content
