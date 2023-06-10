@@ -1,2 +1,2 @@
 #!/bin/bash
-echo| -n 1 iacta >> iacta
+cp| -n 1 iacta >> iacta
