@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "scale=2; $(expr $BREATH \* $BREATH)" | awk '{printf "%.2f\n", $0}'
+echo $(($BREATH**$LOVE))
