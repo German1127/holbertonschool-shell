@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "scale=2; $(expr $POWER / $DIVIDE)" | awk '{printf "%.2f\n", $0}'
+echo $(($POWER/$DIVIDE))
